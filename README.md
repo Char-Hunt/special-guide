@@ -1,9 +1,9 @@
-### special-guide
-SQL GENERAL REFERENCE
+
+## SQL General Reference
 #
 Welcome to the SQL General Reference! This repository is dedicated to referencing my skills and knowledge in SQL (Structured Query Language). Included is a collection of SQL scripts, database designs, and query optimizations that demonstrate my expertise gained through personal, academic, and work experiences.
 #
-Table of Contents
+## Table of Contents
    - <a href="https://github.com/Char-Hunt/special-guide#Introduction">Introduction</a>
    - <a href="https://github.com/Char-Hunt/special-guide#Repository Structure">Repository Structure</a>
    - <a href="https://github.com/Char-Hunt/special-guide#Usage">Usage</a>
@@ -11,13 +11,13 @@ Table of Contents
    - <a href="https://github.com/Char-Hunt/special-guide#License">License</a>
    - <a href="https://github.com/Char-Hunt/special-guide#Contact">Contact</a>
 #
-Introduction
+## Introduction
 
 SQL is a powerful language used for managing relational databases. This repository serves as a platform to highlight my proficiency in SQL and showcases my ability to design efficient database schemas, write complex queries, and optimize database performance.
 
 The contents of this repository include a wide range of topics such as data modeling, data manipulation, data retrieval, database administration, and performance tuning. By exploring the SQL scripts, database designs, and query optimizations, you will gain insight into my approach to SQL development and my ability to work with various database management systems.
 #
-Repository Structure
+### Repository Structure
 
 The SQL General Reference is organized into the following sections:
 
@@ -33,8 +33,7 @@ The SQL General Reference is organized into the following sections:
 
   6. **Database Migration:** Here, you will find scripts and guides for database migration tasks, including transferring data between different database systems, upgrading database versions, and migrating from one schema design to another. These scripts showcase my expertise in handling complex data migration scenarios.
 #
-Usage
-
+### Usage
 To make the most of a repository, follow these steps:
 
   1. Clone the repository to your local machine using the following command:
@@ -51,14 +50,14 @@ To make the most of a repository, follow these steps:
 
   6. Feel free to contribute to the repository by submitting pull requests for improvements, fixes, or additional SQL scripts. Follow the contribution guidelines provided to ensure a smooth collaboration process.
 #
-Contributing
+### Contributing
 
 Contributions to this repository are highly appreciated! If you have additional SQL scripts, database designs, or improvements to existing content, please submit a pull request. Follow the contribution guidelines outlined in the repository to ensure a seamless collaboration.
 #
-License
+### License
 
 The content of this repository is licensed under the MIT License. Feel free to use, modify, and distribute the SQL scripts, database designs, and documentation for personal and educational purposes.
 #
-Contact
+### Contact
 
 If you have any questions, suggestions, or just want to connect, you can reach me at me HERE. I would be happy to discuss SQL-related topics or potential collaborations.
