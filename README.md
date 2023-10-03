@@ -1,7 +1,7 @@
 # special-guide
-SQL - General Reference
+SQL GENERAL REFERENCE
 #
-Welcome to the Special Guide! This repository is dedicated to referencing my skills and knowledge in SQL (Structured Query Language). Included is a collection of SQL scripts, database designs, and query optimizations that demonstrate my expertise gained through personal, academic, and work experiences.
+Welcome to the SQL General Refernce! This repository is dedicated to referencing my skills and knowledge in SQL (Structured Query Language). Included is a collection of SQL scripts, database designs, and query optimizations that demonstrate my expertise gained through personal, academic, and work experiences.
 #
 Table of Contents
    - Introduction
@@ -19,7 +19,7 @@ The contents of this repository include a wide range of topics such as data mode
 #
 Repository Structure
 
-The SQL Repository is organized into the following sections:
+The SQL General Reference is organized into the following sections:
 
   1. **Database Design:** This section contains database schema designs and entity-relationship diagrams (ERDs). You will find examples of well-structured database designs, normalization techniques, and best practices for building efficient and scalable databases.
 
