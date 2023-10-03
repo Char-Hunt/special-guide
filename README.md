@@ -1,15 +1,15 @@
-# special-guide
+### special-guide
 SQL GENERAL REFERENCE
 #
 Welcome to the SQL General Reference! This repository is dedicated to referencing my skills and knowledge in SQL (Structured Query Language). Included is a collection of SQL scripts, database designs, and query optimizations that demonstrate my expertise gained through personal, academic, and work experiences.
 #
 Table of Contents
-   - Introduction
-   - Repository Structure
-   - Usage
-   - Contributing
-   - License
-   - Contact
+   - <a href="https://github.com/Char-Hunt/special-guide#Introduction">Introduction</a>
+   - <a href="https://github.com/Char-Hunt/special-guide#Repository Structure">Repository Structure</a>
+   - <a href="https://github.com/Char-Hunt/special-guide#Usage">Usage</a>
+   - <a href="https://github.com/Char-Hunt/special-guide#Contributing">Contributing</a>
+   - <a href="https://github.com/Char-Hunt/special-guide#License">License</a>
+   - <a href="https://github.com/Char-Hunt/special-guide#Contact">Contact</a>
 #
 Introduction
 
