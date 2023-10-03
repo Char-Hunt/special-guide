@@ -1,7 +1,7 @@
 # special-guide
 SQL GENERAL REFERENCE
 #
-Welcome to the SQL General Refernce! This repository is dedicated to referencing my skills and knowledge in SQL (Structured Query Language). Included is a collection of SQL scripts, database designs, and query optimizations that demonstrate my expertise gained through personal, academic, and work experiences.
+Welcome to the SQL General Reference! This repository is dedicated to referencing my skills and knowledge in SQL (Structured Query Language). Included is a collection of SQL scripts, database designs, and query optimizations that demonstrate my expertise gained through personal, academic, and work experiences.
 #
 Table of Contents
    - Introduction
