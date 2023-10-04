@@ -17,7 +17,7 @@ SQL is a powerful language used for managing relational databases. This reposito
 
 The contents of this repository include a wide range of topics such as data modeling, data manipulation, data retrieval, database administration, and performance tuning. By exploring the SQL scripts, database designs, and query optimizations, you will gain insight into my approach to SQL development and my ability to work with various database management systems.
 #
-### Repository Structure
+### Repository Architecture
 
 The SQL General Reference is organized into the following sections:
 
@@ -25,7 +25,7 @@ The SQL General Reference is organized into the following sections:
 
   2. **Data Manipulation:** Here, you will find SQL scripts that demonstrate data manipulation operations such as inserting, updating, and deleting data in the database. These scripts showcase my ability to handle data transformations, perform batch operations, and maintain data integrity.
 
-  3. **Data Retrieval:** The data retrieval section focuses on SQL queries for extracting data from the database. You will find examples of simple and complex queries, including joins, subqueries, aggregations, and advanced filtering techniques. These scripts demonstrate my proficiency in retrieving the required information from the database efficiently.
+  3. **Data Retrievals:** The [data retrievals] section focuses on SQL queries for extracting data from the database. You will find examples of simple and complex queries, including joins, subqueries, aggregations, and advanced filtering techniques. These scripts demonstrate my proficiency in retrieving the required information from the database efficiently.
 
   4. **Database Administration:** In this section, you will find scripts and guides related to database administration tasks. This includes database creation, table creation, user management, access control, backups, and recovery. These scripts highlight my knowledge of database management systems and my ability to maintain and secure databases.
 
