@@ -5,7 +5,7 @@ Welcome to the SQL General Reference! This repository is dedicated to referencin
 #
 ## Table of Contents
    - <a href="https://github.com/Char-Hunt/special-guide#Introduction">Introduction</a>
-   - <a href="https://github.com/Char-Hunt/special-guide#Repository Structure">Repository Structure</a>
+   - <a href="https://github.com/Char-Hunt/special-guide#Repository Architecture">Repository Architecture</a>
    - <a href="https://github.com/Char-Hunt/special-guide#Usage">Usage</a>
    - <a href="https://github.com/Char-Hunt/special-guide#Contributing">Contributing</a>
    - <a href="https://github.com/Char-Hunt/special-guide#License">License</a>
