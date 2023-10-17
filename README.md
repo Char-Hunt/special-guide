@@ -60,4 +60,4 @@ The content of this repository is licensed under the MIT License. Feel free to u
 #
 ### Contact
 
-If you have any questions, suggestions, or just want to connect, you can reach me [HERE](mailto:your-email@example.com) or browse to my [Main page](https://github.com/Char-Hunt/Learning-Info-Sec). I would be happy to discuss SQL-related topics or potential collaborations.
+If you have any questions, suggestions, or just want to connect, you can reach me [HERE](mailto:your-email@example.com) or browse to my [Main page](https://github.com/Char-Hunt/Learning-Info-Sec) or Find me online to [Learn More.](https://solo.to/treadm1ll) I would be happy to discuss SQL-related topics or potential collaborations.
