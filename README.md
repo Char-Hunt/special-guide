@@ -1,7 +1,7 @@
 
 ## SQL General Reference
 #
-Welcome to the SQL General Reference! This repository is dedicated to referencing my skills and knowledge in SQL (Structured Query Language). Included is a collection of SQL scripts, database designs, and query optimizations that demonstrate my expertise gained through personal, academic, and work experiences.
+Welcome to the SQL General Reference! This repository is dedicated to referencing my skills and knowledge in SQL (Structured Query Language). Included is a collection of SQL scripts, database designs, and query optimizations that demonstrate my expertise gained through personal, academic, and work experiences. Continuous learning and collaboration are the basic tenets of my security awareness philosophy. I'm always open to collaborations to accomplish progress towared that important destination.
 #
 ## Table of Contents
    - <a href="https://github.com/Char-Hunt/special-guide#Introduction">Introduction</a>
